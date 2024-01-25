@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+}
+
+.form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40%;
+    background: white;
+    border-radius: 10px;
+}
+.h3 {
+    text-align: center;
+    padding: 0 0 20px 0;
+    border-bottom: 1px solid silver;
+}
+.bigtable {
+    table-layout: fixed;
+    background-color: rgb(252, 252, 252);
+    margin-left: 280px;
+    margin-bottom: 7px;
+}
+.bigtable2 {
+    table-layout: fixed;
+    background-color: rgb(252, 252, 252);
+    margin-right: 270px;
+    margin-top: -330px;
+}
+.bigtable3 {
+    table-layout: fixed;
+    background-color: rgb(252, 252, 252);
+    margin-bottom: -160px;
+}
+
+
